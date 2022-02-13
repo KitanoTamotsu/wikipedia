@@ -1,4 +1,3 @@
-## 　　Lesson12.　randomユーティリティを使用する  
 #### 開発メモ
 ワークフロー
 <br><img width="600" src="https://user-images.githubusercontent.com/40127279/126860198-1e1e98b5-af42-42ea-b3b7-4ca9d06ae5a4.png">
